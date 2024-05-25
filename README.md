@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueFenixGit
-- 👀 I’m interested in automation and games
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in full stack webdev
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
